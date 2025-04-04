@@ -1,0 +1,15 @@
+Assignment
+
+Write Program to Add Two Integers and store their sum in the third variable.
+Write Program to Add Two Integers.
+Write Program to Multiply two Floating Point Numbers.
+Write Program to perform all arithmetic operations.
+Write Program to Swap Values of Two Variables
+Write Program to convert feet to metres and metres into KM.
+Write Program to convert celcius to farenheit 
+Write Program to convert Fahrenheit to Celsius.
+Write Program to find the Size of data types.
+Write Program to Calculate Area of Circle. 
+Write Program to Calculate Area of Square.
+Write Program to Calculate Area of Rectangle.
+Write Program to convert days to years, weeks and days
